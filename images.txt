@@ -1,1 +1,2 @@
 koishijs/koishi:latest
+mysql:8.0
