@@ -1,2 +1,3 @@
 koishijs/koishi:latest
 mysql:8.0
+whyour/qinglong:debian
