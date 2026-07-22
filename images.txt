@@ -2,3 +2,4 @@ koishijs/koishi:latest
 mysql:8.0
 whyour/qinglong:debian
 ghcr.io/home-assistant/home-assistant:latest
+ghcr.io/rohithkadaveru/ha-pass:latest
